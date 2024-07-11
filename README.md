@@ -1,2 +1,2 @@
 # VBM-DTMC
-Time non-homogenous Markov Chain built to perform risk assessment of Voting by Mail 
+Time inhomogeneous discrete Markov Chain built to perform a risk assessment of Voting by Mail for Milwaukee County 
